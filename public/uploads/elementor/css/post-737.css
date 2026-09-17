@@ -1,0 +1,73 @@
+.elementor-737 .elementor-element.elementor-element-5cdebea {
+    padding: 0px 0px 60px 0px;
+}
+
+.elementor-737 .elementor-element.elementor-element-45312c3 .wdt-heading-holder .wdt-heading-title-wrapper .wdt-heading-title {
+    align-items: center;
+}
+
+.elementor-737 .elementor-element.elementor-element-45312c3 .wdt-heading-holder .wdt-heading-subtitle-wrapper .wdt-heading-subtitle {
+    align-items: center;
+}
+
+.elementor-737 .elementor-element.elementor-element-45312c3 .wdt-heading-holder,
+.elementor-737 .elementor-element.elementor-element-45312c3 .wdt-heading-holder>.wdt-heading-separator-wrapper .wdt-heading-separator,
+.elementor-737 .elementor-element.elementor-element-45312c3 .wdt-heading-holder>.wdt-heading-title-wrapper .wdt-heading-title,
+.elementor-737 .elementor-element.elementor-element-45312c3 .wdt-heading-holder>.wdt-heading-subtitle-wrapper .wdt-heading-subtitle {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.elementor-737 .elementor-element.elementor-element-a31b496 .wdt-heading-holder,
+.elementor-737 .elementor-element.elementor-element-a31b496 .wdt-heading-holder>.wdt-heading-title-wrapper .wdt-heading-title {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.elementor-737 .elementor-element.elementor-element-a31b496 .wdt-heading-holder>.wdt-heading-content-wrapper {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.elementor-737 .elementor-element.elementor-element-6264908 {
+    z-index: 1;
+}
+
+@media(max-width:1280px) and (min-width:481px) {
+    .elementor-737 .elementor-element.elementor-element-0c7a3c8 {
+        width: 20%;
+    }
+    .elementor-737 .elementor-element.elementor-element-5141d80 {
+        width: 60%;
+    }
+    .elementor-737 .elementor-element.elementor-element-837a36c {
+        width: 20%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:481px) {
+    .elementor-737 .elementor-element.elementor-element-0c7a3c8 {
+        width: 10%;
+    }
+    .elementor-737 .elementor-element.elementor-element-5141d80 {
+        width: 80%;
+    }
+    .elementor-737 .elementor-element.elementor-element-837a36c {
+        width: 10%;
+    }
+}
+
+@media(max-width:768px) and (min-width:481px) {
+    .elementor-737 .elementor-element.elementor-element-0c7a3c8 {
+        width: 100%;
+    }
+    .elementor-737 .elementor-element.elementor-element-5141d80 {
+        width: 100%;
+    }
+    .elementor-737 .elementor-element.elementor-element-837a36c {
+        width: 100%;
+    }
+}

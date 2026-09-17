@@ -1,0 +1,27 @@
+.elementor-1204 .elementor-element.elementor-element-166a526 .wdt-google-map-wrapper .wdt-google-map {
+    height: 750px;
+}
+
+@media(max-width:1540px) {
+    .elementor-1204 .elementor-element.elementor-element-166a526 .wdt-google-map-wrapper .wdt-google-map {
+        height: 600px;
+    }
+}
+
+@media(max-width:1280px) {
+    .elementor-1204 .elementor-element.elementor-element-166a526 .wdt-google-map-wrapper .wdt-google-map {
+        height: 550px;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-1204 .elementor-element.elementor-element-166a526 .wdt-google-map-wrapper .wdt-google-map {
+        height: 400px;
+    }
+}
+
+@media(max-width:480px) {
+    .elementor-1204 .elementor-element.elementor-element-166a526 .wdt-google-map-wrapper .wdt-google-map {
+        height: 350px;
+    }
+}
