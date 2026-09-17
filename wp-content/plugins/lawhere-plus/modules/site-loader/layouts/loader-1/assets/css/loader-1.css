@@ -1,0 +1,126 @@
+/*--------------------------------------------------------------
+    Loader
+--------------------------------------------------------------*/
+
+.pre-loader {
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999991;
+    background-color: var(--wdtSecondaryColor) !important;
+}
+
+.loader-inner {
+    padding: 25px;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    text-align: center;
+    width: 100%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.loader-inner-content {
+    margin: 0;
+    padding: 0;
+    font-size: clamp(1.25rem, 0.875rem + 1.875vw, 3.125rem);
+    font-weight: var(--wdtFontWeight_H2);
+    font-family: var(--wdtFontTypo_H2);
+    color: var(--wdtPrimaryColor);
+}
+
+.loader-inner-content span {
+    position: relative;
+    top: 0;
+    display: inline-block;
+    text-transform: uppercase;
+    opacity: 0;
+    transform: rotateX(-90deg);
+}
+
+.loader-inner-content-1 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.2s;
+}
+
+.loader-inner-content-2 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.3s;
+}
+
+.loader-inner-content-3 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.4s;
+}
+
+.loader-inner-content-4 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.5s;
+}
+
+.loader-inner-content-5 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.6s;
+}
+
+.loader-inner-content-6 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.7s;
+}
+
+.loader-inner-content-7 {
+    animation: drop 1.2s ease-in-out infinite;
+    animation-delay: 1.8s;
+}
+
+@keyframes drop {
+    10% {
+        opacity: 0.5;
+    }
+    20% {
+        opacity: 1;
+        top: 3.78em;
+        transform: rotateX(-360deg);
+    }
+    80% {
+        opacity: 1;
+        top: 3.78em;
+        transform: rotateX(-360deg);
+    }
+    90% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 0;
+        top: 6.94em
+    }
+}
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+.pre-loader {
+    background-color: var(--wdtBodyBGColor);
+}
+
+.loader-text {
+    background-image: linear-gradient(to right, var(--wdtPrimaryColor) 10%, var(--wdtHeadAltColor) 50%, var(--wdtPrimaryColor) 60%);
+}
+
+/*--------------------------------------------------------------
+    Responsive
+--------------------------------------------------------------*/
+
+/*----*****---- << Mobile (Landscape) >> ----*****----*/
+
+/* Note: Design for a width of 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Common Styles for the devices below 479px width */
+
+@media only screen and (max-width: 479px) {}
