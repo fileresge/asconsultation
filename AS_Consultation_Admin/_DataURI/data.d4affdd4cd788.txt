@@ -1,1 +1,0 @@
-chrome-extension://lopnbnfpjmgpbppclhclehhgafnifija/aiscripts/script-main.js

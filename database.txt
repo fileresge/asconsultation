@@ -1,2 +1,0 @@
-DATABASE NAME = as_consultation
-TABLE NAME = contactus
