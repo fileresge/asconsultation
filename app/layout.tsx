@@ -2,10 +2,10 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import SiteHeader from "../components/site-header";
 import SiteFooter from "../components/site-footer";
-import FloatingContactActions from "../components/floating-contact-actions";
+import Chatbot from "../components/chatbot/chatbot";
 import SiteExperience from "../components/site-experience";
 import StructuredData from "../components/structured-data";
-import { serviceContact, whatsappEnquiryUrl } from "../lib/business-services";
+import { serviceContact } from "../lib/business-services";
 import { socialLinks } from "../lib/social-links";
 import { officeLocation } from "../lib/office-location";
 import { absoluteUrl, createPageMetadata, pageSeo, siteName, siteUrl } from "../lib/seo";
@@ -35,7 +35,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         ] }} />
         <SiteExperience>
         <SiteHeader /><div id="main-content" tabIndex={-1} className="min-w-0 flex-1 outline-none">{children}</div><SiteFooter />
-        <FloatingContactActions whatsappUrl={whatsappEnquiryUrl("tax and business services")} email={serviceContact.email} />
+        <Chatbot whatsappNumber={serviceContact.whatsapp} />
         </SiteExperience>
       </body>
     </html>
