@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #073B72;
+  --color-brand-orange: #087AC8;
+  --color-brand-orange-dark: #052B55;
+  --color-ink: #374151;
+  --font-sans: Arial, Helvetica, sans-serif;
+  --breakpoint-sm: 601px;
+  --breakpoint-md: 901px;
+  --breakpoint-lg: 1141px;
+}
+
+.mobile-carousel-track {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: 8%;
+  padding: 18px 8%;
+  scrollbar-width: none;
+  border-radius: 4px;
+}
+
+.mobile-carousel-track::-webkit-scrollbar { display: none; }
+.mobile-carousel-track:focus-visible { outline: 2px solid var(--color-brand-orange); outline-offset: 2px; }
+.mobile-carousel-slide { display: flex; flex: 0 0 100%; min-width: 0; scroll-snap-align: center; scroll-snap-stop: always; }
+.mobile-carousel-slide > * { width: 100%; }
+
+@media (min-width: 901px) {
+  .mobile-carousel-track { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; overflow: visible; padding: 18px 0; scroll-snap-type: none; }
+}
+
+html { scroll-padding-top: 24px; }
+body { overflow-wrap: break-word; }
+main, section, article, aside, form { min-width: 0; }
+img, video, iframe { max-width: 100%; }
+button, a, input, select, textarea, summary { -webkit-tap-highlight-color: transparent; }
+:where(a, button, summary):focus-visible { outline: 2px solid var(--color-brand-orange); outline-offset: 3px; }
+:where(h1, h2, h3) { overflow-wrap: anywhere; }
+.site-preloader { animation: preloader-failsafe 0.01s 2s forwards; }
+@keyframes preloader-failsafe { to { visibility: hidden; pointer-events: none; } }
+
+@media (max-width: 600px) {
+  input:not([type=checkbox]):not([type=radio]):not([type=range]), select, textarea { font-size: 16px; }
+  main h1 { font-size: clamp(28px, 8vw, 40px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+  .site-preloader { display: none; }
+}

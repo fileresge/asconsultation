@@ -1,0 +1,810 @@
+[
+  {
+    "id": "ntn-registration",
+    "title": "NTN Registration",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Rs. 1,500",
+    "notes": [],
+    "timeline": "1 - 2 Working Days",
+    "requirements": [
+      "Color copy of CNIC",
+      "Latest paid electricity bill",
+      "Phone Number(Registered on CNIC)",
+      "Email address"
+    ]
+  },
+  {
+    "id": "ntn-registration-business",
+    "title": "NTN Registration – Business",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Rs. 2,500",
+    "notes": [],
+    "timeline": "1 - 2 Working Days",
+    "requirements": [
+      "Color copy of CNIC",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address"
+    ]
+  },
+  {
+    "id": "ntn-registration-partnership-or-aop",
+    "title": "NTN Registration – Partnership or AOP",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Rs. 15,000",
+    "notes": [],
+    "timeline": "5 Working Days",
+    "requirements": [
+      "Partnership Deed",
+      "Partnership registration certificate",
+      "Authorization of principal Officer",
+      "Color copy of CNIC's of Partners",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address"
+    ]
+  },
+  {
+    "id": "ntn-registration-company",
+    "title": "NTN Registration – Company",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Rs. 15,000",
+    "notes": [],
+    "timeline": "5 Working Days",
+    "requirements": [
+      "Incorporation Certificate",
+      "Memorandum & Articles of Association",
+      "Partnership registration certificate",
+      "Authorization of principal Officer",
+      "Color copy of CNIC's of Partners",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address"
+    ]
+  },
+  {
+    "id": "ntn-registration-npo",
+    "title": "NTN Registration – NPO",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Rs. 400,000",
+    "notes": [],
+    "timeline": "5 Working Days",
+    "requirements": [
+      "NTN of all members",
+      "Registration Certificate",
+      "Constitution of NPO",
+      "Authorization of principal Officer",
+      "Color copy of CNIC's of Partners",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address",
+      "Any other document as required by the concerned authority"
+    ]
+  },
+  {
+    "id": "quarterly-withholding-statements-tax-filing",
+    "title": "Quarterly Withholding Statements Tax Filing",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Minimum Fee: Rs. 5,000",
+    "notes": [
+      "(Actual Fee will depend on the turnover and nature of business activity)"
+    ],
+    "timeline": "3 - 4 Working Days",
+    "requirements": [
+      "Details of Taxes deducted at source during each quarter",
+      "Other information as required"
+    ]
+  },
+  {
+    "id": "annual-income-tax-filing",
+    "title": "Annual Income Tax Filing",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Rs. 3,900",
+    "notes": [],
+    "timeline": "3 - 5 Working Days",
+    "requirements": [
+      "Annual Salary certificate",
+      "Other Income sources if any",
+      "Annual personal expense",
+      "Details of all owned assets",
+      "Investments during the year",
+      "Disposals during the year",
+      "Other inflows/outflows during the year",
+      "Other information as required"
+    ]
+  },
+  {
+    "id": "annual-income-tax-filing-sole-proprietor",
+    "title": "Annual Income Tax Filing- Sole Proprietor",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Minimum Fee: Rs. 7,500",
+    "notes": [
+      "(Actual Fee will depend on the turnover and nature of business activity)"
+    ],
+    "timeline": "3 - 5 Working Days",
+    "requirements": [
+      "Annual Accounts",
+      "Other Income sources if any",
+      "Annual personal expense",
+      "Details of all owned assets",
+      "Investments during the year",
+      "Disposals during the year",
+      "Other inflows/outflows during the year",
+      "Other information as required"
+    ]
+  },
+  {
+    "id": "annual-income-tax-filing-partnership-pvt-company",
+    "title": "Annual Income Tax Filing- Partnership/PVT Company",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Minimum Fee: Rs. 10,000",
+    "notes": [
+      "(Actual Fee will depend on the turnover and nature of business activity)"
+    ],
+    "timeline": "5 Working Days",
+    "requirements": [
+      "Annual Audited Accounts",
+      "Taxes deducted at source",
+      "Other information as required"
+    ]
+  },
+  {
+    "id": "annual-income-tax-filing-npo-charitable-trusts",
+    "title": "Annual Income Tax Filing- NPO/Charitable Trusts",
+    "subtitle": "",
+    "category": "income-tax",
+    "price": "Minimum Fee: Rs. 15,000",
+    "notes": [
+      "(Actual Fee will depend on the turnover and nature of business activity)"
+    ],
+    "timeline": "5 Working Days",
+    "requirements": [
+      "Annual Audited Accounts",
+      "Taxes deducted at source",
+      "Other information as required"
+    ]
+  },
+  {
+    "id": "gst-registration",
+    "title": "GST Registration",
+    "subtitle": "",
+    "category": "sales-tax",
+    "price": "Rs. 150,000",
+    "notes": [],
+    "timeline": "3 Weeks to 1 Month",
+    "requirements": [
+      "Bank Account Certificate",
+      "Acquisition Date, Capacity and Business Activity",
+      "Particulars of all branches (if any)",
+      "Authorization of principal Officer",
+      "GPS-tagged photographs of the business premises",
+      "Consumer number with the gas and electricity supplier along with pictures of utilities meter",
+      "GPS-tagged photographs of machinery and industrial electricity or gas meter installed (Manufacturer only)",
+      "Color copy of CNIC's of Partners",
+      "Rent agreement/ownership docs of Office premises",
+      "Latest paid electricity bill",
+      "Biometric Verification",
+      "Post Verification (Manufacturer only)",
+      "NOC From Landlord"
+    ]
+  },
+  {
+    "id": "monthly-federal-provincial-sales-tax-return-filing",
+    "title": "Monthly Federal / Provincial Sales Tax Return Filing",
+    "subtitle": "",
+    "category": "sales-tax",
+    "price": "Minimum Fee: Rs. 5,000",
+    "notes": [
+      "(Actual Fee will depend on the turnover and nature of business activity)"
+    ],
+    "timeline": "3 - 4 Working Days",
+    "requirements": [
+      "Copies of Sales Invoices",
+      "Copies of purchases Invoices",
+      "Bank Statements",
+      "Other information as required"
+    ]
+  },
+  {
+    "id": "pst-registration-individual",
+    "title": "PST Registration - Individual",
+    "subtitle": "",
+    "category": "sales-tax",
+    "price": "Rs. 25,000",
+    "notes": [],
+    "timeline": "7 - 10 Working Days",
+    "requirements": [
+      "Color copy of CNIC",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address",
+      "Bank Account Certificate",
+      "Acquisition Date, Capacity and Business Activity",
+      "Particulars of all branches (if any)",
+      "Authorization of principal Officer",
+      "Signed Application Form"
+    ]
+  },
+  {
+    "id": "pst-registration-company",
+    "title": "PST Registration - Company",
+    "subtitle": "",
+    "category": "sales-tax",
+    "price": "Rs. 25,000",
+    "notes": [],
+    "timeline": "7 - 10 Working Days",
+    "requirements": [
+      "Incorporation Certificate",
+      "Memorandum of Association",
+      "Articles of Association",
+      "Incorporation Form/ Form A & 29",
+      "Color copy of CNIC",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address",
+      "Bank Account Certificate",
+      "Acquisition Date, Capacity and Business Activity",
+      "Particulars of all branches (if any)",
+      "Authorization of principal Officer",
+      "Signed Application Form"
+    ]
+  },
+  {
+    "id": "pst-registration-partnership",
+    "title": "PST Registration - Partnership",
+    "subtitle": "",
+    "category": "sales-tax",
+    "price": "Rs. 25,000",
+    "notes": [],
+    "timeline": "7 - 10 Working Days",
+    "requirements": [
+      "Partnership Certificate",
+      "Partnership deed",
+      "Color copy of CNIC",
+      "Rent agreement/ownership docs of Office premises",
+      "Letterhead",
+      "Latest paid electricity bill",
+      "Phone Number",
+      "Email address",
+      "Bank Account Certificate",
+      "Acquisition Date, Capacity and Business Activity",
+      "Particulars of all branches (if any)",
+      "Authorization of principal Officer",
+      "Signed Application Form"
+    ]
+  },
+  {
+    "id": "private-limited-company-registration",
+    "title": "Private Limited Company Registration",
+    "subtitle": "(Other than Licensed entity)",
+    "category": "company-registration",
+    "price": "Minimum Fee: Rs. 25,000",
+    "notes": [
+      "Excluding SECP Fees (SECP Fees depends on the amount of Authorized capital)"
+    ],
+    "timeline": "3 - 10 working days depending upon availability of Name",
+    "requirements": [
+      "Three Names of the proposed company",
+      "Neat and Clear Scanned copies of CNIC's of all the proposed Directors / subscribers",
+      "Registered address / correspondence address of the proposed Company",
+      "The principal business of the proposed company",
+      "Nature of the business activity",
+      "Authorized Capital",
+      "Paid up Capital",
+      "Value per share e.g.Rs. 10, Rs. 50 or Rs. 100 etc",
+      "A combination of Shares agreed TO be subscribed BY EACH director/subscriber",
+      "Name of the Chief Executive of the Proposed Company",
+      "Telephone numbers and email ID of all the proposed directors",
+      "SECP login details of the proposed directors / subscribers(if any)"
+    ]
+  },
+  {
+    "id": "single-member-company-registration",
+    "title": "Single Member Company Registration",
+    "subtitle": "(Other than Licensed entity)",
+    "category": "company-registration",
+    "price": "Minimum Fee: Rs. 25,000",
+    "notes": [
+      "Excluding SECP Fees (SECP Fees depends on the amount of Authorized capital)"
+    ],
+    "timeline": "3 - 10 working days depending upon availability of Name",
+    "requirements": [
+      "Three Names of the proposed company",
+      "Neat and Clear Scanned copies of CNIC's of all the proposed Directors / subscribers and Nominee",
+      "Registered address / correspondence address of the proposed Company",
+      "The principal business of the proposed company",
+      "Nature of the business activity",
+      "Authorized Capital",
+      "Paid up Capital",
+      "Value per share e.g.Rs. 10, Rs. 50 or Rs. 100 etc",
+      "Telephone numbers and email ID of all the proposed directors of the Company and Nominee",
+      "SECP login details of the proposed directors / subscribers(if any)"
+    ]
+  },
+  {
+    "id": "limited-liability-partnership-registration-llp",
+    "title": "Limited Liability Partnership Registration (LLP)",
+    "subtitle": "(Other THAN Licensed entity)",
+    "category": "company-registration",
+    "price": "Fee: Rs. 45,000",
+    "notes": [
+      "Excluding SECP Fees"
+    ],
+    "timeline": "7 - 10 working days depending upon availability of Name and provision of signed documents by the client",
+    "requirements": [
+      "Three NAMES of the proposed LLP",
+      "Neat AND Clear Scanned copies of CNICs of ALL the proposed Partners",
+      "FBR Credentials of the proposed partners",
+      "Registered address/correspondence address of the proposed LLP",
+      "The principal business of the proposed LLP",
+      "Nature of the business activity",
+      "A combination of Shares agreed TO be subscribed BY EACH partner",
+      "Telephone numbers AND email IDs of ALL the proposed partners of the LLP",
+      "SECP login details of the proposed partners (IF ANY)"
+    ]
+  },
+  {
+    "id": "partnership-or-aop-registration",
+    "title": "Partnership or AOP Registration",
+    "subtitle": "(Services available only in Karachi, Hyderabad, Sukkur, Whole Punjab, Islamabad)",
+    "category": "company-registration",
+    "price": "Fee: Rs. 45,000",
+    "notes": [
+      "(depending upon city) Excluding official Fees"
+    ],
+    "timeline": "7 - 15 working days subject to timely provision of signed documents by the client",
+    "requirements": [
+      "Neat AND Clear Scanned copies of CNICs of ALL the proposed Partners",
+      "Nature of the business activity",
+      "Registered address/correspondence address of the AOP",
+      "Letterhead of the AOP",
+      "Rent agreement/ownership docs of Office premises (FOR OUT of Karachi AOP only)",
+      "Latest paid electricity bill (FOR OUT of Karachi AOP only)",
+      "Phone Numbers of ALL partners",
+      "Email address of ALL partners"
+    ]
+  },
+  {
+    "id": "npo-registration-with-secp",
+    "title": "NPO Registration with SECP",
+    "subtitle": "",
+    "category": "company-registration",
+    "price": "Rs. 320,000",
+    "notes": [
+      "Excluding SECP Fees (Rs. 180,000)"
+    ],
+    "timeline": "3-4 Months working days subject to availability of Name & timely provision of signed documents by the client",
+    "requirements": [
+      "Color copy of CNICs of members",
+      "CVs of ALL members",
+      "Objects/ Services of NPO",
+      "Registered address/correspondence address of the NPO",
+      "NAME of proposed CEO",
+      "Telephone numbers AND email IDs of ALL the proposed members",
+      "SECP login details of the proposed members (IF ANY)"
+    ]
+  },
+  {
+    "id": "trademark-registration",
+    "title": "Trademark Registration",
+    "subtitle": "",
+    "category": "intellectual-property",
+    "price": "Rs. 70,000",
+    "notes": [],
+    "timeline": null,
+    "requirements": [
+      "TM-1 in duplicate",
+      "Six representations affixed on a durable paper of 13x8 inch",
+      "CNIC of the Trademark Holder/partners",
+      "Specification of goods or services sought to be protected in any class",
+      "Residential address of holder or Letterhead of the Business",
+      "Other Information or Documents as required"
+    ]
+  },
+  {
+    "id": "copyright-registration",
+    "title": "Copyright Registration",
+    "subtitle": "",
+    "category": "intellectual-property",
+    "price": "Rs. 70,000",
+    "notes": [],
+    "timeline": null,
+    "requirements": [
+      "Two Copies of work",
+      "Demand Draft / Pay order of fee as applicable per work",
+      "CNIC of the Copyrights Holder / partners",
+      "NOC from publisher if work has been published and publisher is different from applicant",
+      "Search certificate from trademark Office if the work is capable of being used on goods",
+      "Residential address of holder or Letterhead of the Business",
+      "Power of attorney",
+      "Other Information or Documents as required"
+    ]
+  },
+  {
+    "id": "patent-registration",
+    "title": "Patent Registration",
+    "subtitle": "",
+    "category": "intellectual-property",
+    "price": "Rs. 150,000",
+    "notes": [],
+    "timeline": null,
+    "requirements": [
+      "Form P - 1 or Form P - 1A application without priority",
+      "Form P - 2 or Form P - 2A application with priority",
+      "Form P- 3 for provisional or Form P- 3A for complete specification)",
+      "Patent Specification",
+      "Drawing(s), if any",
+      "Demand Draft / Pay order of fee as applicable per work",
+      "Form P - 28(power of Attorney) if any",
+      "Priority document(for convention application)",
+      "CNIC of the Copyrights applicant",
+      "Other Information or Documents as required"
+    ]
+  },
+  {
+    "id": "npo-registration-with-registrar",
+    "title": "NPO Registration with Registrar",
+    "subtitle": "(Provincial- Karachi & Sukkur only)",
+    "category": "company-registration",
+    "price": "Rs. 320,000",
+    "notes": [
+      "Excluding Official Fees and other out-of-pocket expenses (Rs. 15,500)"
+    ],
+    "timeline": "(3-4 Months working days subject TO availability of name & timely provision of signed documents by the client and NOC from Home Department)",
+    "requirements": [
+      "Color copy of CNICs of members",
+      "CVs of all members",
+      "Objects/ Services of NPO",
+      "Registered address/correspondence address of the NPO",
+      "Name of proposed CEO/Authorized officer",
+      "Telephone numbers and email IDs of all the proposed members"
+    ]
+  },
+  {
+    "id": "trust-registration-with-registrar",
+    "title": "TRUST Registration with Registrar",
+    "subtitle": "(Provincial- Karachi & Sukkur only)",
+    "category": "company-registration",
+    "price": "Rs. 320,000",
+    "notes": [
+      "Excluding Official Fees and other out-of-pocket expenses (Rs. 10,500)"
+    ],
+    "timeline": "(3-4 Months working days subject to timely provision of signed documents by the client and NOC from Home Department)",
+    "requirements": [
+      "Color copy of CNICs of Trustees",
+      "CVs of all Trustees",
+      "Objects of the Trust",
+      "Registered address/correspondence address of the Turst",
+      "Name of proposed Authorized officer",
+      "Telephone numbers and email IDs of all the proposed Trustees"
+    ]
+  },
+  {
+    "id": "registration-of-npos-charities-trusts-with-sindh-charity-commission",
+    "title": "Registration of NPOs/ Charities/ Trusts with Sindh Charity Commission",
+    "subtitle": "(Provincial- Karachi & Sukkur only)",
+    "category": "company-registration",
+    "price": "Rs. 320,000",
+    "notes": [
+      "Excluding official fees and other out of pocket expenses (Rs. 10,000)"
+    ],
+    "timeline": "(3-4 Months working days subject to timely provision of signed documents by the client and NOC from the Home Department)",
+    "requirements": [
+      "Color copy of CNICs of Trustees",
+      "CVs of all Trustees",
+      "Objects of the Trust",
+      "Registered address/correspondence address of the Turst",
+      "Name of proposed Authorized officer",
+      "Telephone numbers and email IDs of all the proposed Trustees"
+    ]
+  },
+  {
+    "id": "facilitation-of-certification-from-pakistan-centre-of-philanthropy",
+    "title": "Facilitation of Certification from Pakistan Centre of Philanthropy",
+    "subtitle": "(Advisory and preparation of documents only- Limited scope)",
+    "category": "company-registration",
+    "price": "Rs. 300,000",
+    "notes": [],
+    "timeline": null,
+    "requirements": [
+      "List of members of Governing Body/BoD/BoT etc. including names, CNICs, term of office, contact, qualification, and professional profile.",
+      "License copy, Incorporation, and FBR documents of the entity",
+      "Purpose for which certification is required from PCP?",
+      "Programs and Beneficiaries (Vision, Mission and Objectives)",
+      "List of all Bank Accounts of NPO including title and name of Bank Account",
+      "Pakistan based Audited Accounts of the organization for the evaluation period signed and stamped by the external auditor",
+      "Other Documents as may be specified"
+    ]
+  },
+  {
+    "id": "fbr-npo-approval",
+    "title": "FBR NPO Approval",
+    "subtitle": "(Karachi only)",
+    "category": "company-registration",
+    "price": "Rs. 90,000",
+    "notes": [
+      "(Subject to completion of all the required documents and approvals"
+    ],
+    "timeline": null,
+    "requirements": [
+      "Constitutive documents of the NPO",
+      "Color copy of CNICs of members",
+      "Registered address/correspondence address of the Trust",
+      "Name of proposed Authorized officer",
+      "Telephone numbers and email IDs of all the proposed Trustees",
+      "PCP certificate/ Approval from Commissioner",
+      "Other Documents as may be specified"
+    ]
+  },
+  {
+    "id": "registration-of-provident-fund",
+    "title": "Registration of Provident Fund",
+    "subtitle": "(Provincial- Karachi & Sukkur only)",
+    "category": "company-registration",
+    "price": "Rs. 320,000",
+    "notes": [
+      "Excluding SECP Fees (Rs. 10,500)"
+    ],
+    "timeline": "3-4 Months working days subject to the timely provision of signed documents by the client and NOC from FBR/ Relevant Authority)",
+    "requirements": [
+      "Color copy of CNICs of members",
+      "Registered address/correspondence address of the Trust",
+      "Name of proposed Authorized officer",
+      "Telephone numbers and email IDs of all the proposed Trustees"
+    ]
+  },
+  {
+    "id": "registration-of-gratuity-fund",
+    "title": "Registration of Gratuity Fund",
+    "subtitle": "(Provincial- Karachi & Sukkur only)",
+    "category": "company-registration",
+    "price": "Rs. 320,000",
+    "notes": [
+      "Excluding SECP Fees (Rs. 10,500)"
+    ],
+    "timeline": "(3-4 Months subject to timely provision of signed documents by the client and NOC from FBR/ Relevant Authority)",
+    "requirements": [
+      "Trust Deed with Rules /NTN",
+      "Color copy of CNICs of members",
+      "Registered address/correspondence address of the Trust",
+      "Name of proposed Authorized officer",
+      "Telephone numbers and email IDs of all the proposed Trustees",
+      "Other Documents as may be specified"
+    ]
+  },
+  {
+    "id": "recognition-of-provident-fund-gratuity-fund-with-fbr",
+    "title": "Recognition of Provident Fund / Gratuity Fund with FBR",
+    "subtitle": "(Karachi & Sukkur only)",
+    "category": "company-registration",
+    "price": "Rs. 130,000",
+    "notes": [],
+    "timeline": "(2-3 Months working days subject to timely provision of signed documents by the client and verifications by FBR)",
+    "requirements": [
+      "Color copy of CNICs of members",
+      "Trust Deed with Rules and NTN",
+      "Registered address/correspondence address of the Trust",
+      "Name of proposed Authorized officer",
+      "Telephone numbers and email IDs of all the proposed Trustees",
+      "Other Documents as may be specified"
+    ]
+  },
+  {
+    "id": "pseb-registration-s-new-freelancer",
+    "title": "PSEB Registration’s (New Freelancer)",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Fee: Rs. 15,000",
+    "notes": [
+      "(Excluding PSEB Fees)"
+    ],
+    "timeline": "10 working days",
+    "requirements": [
+      "Personal NTN (With No Business Name)",
+      "CNIC (Both Sides)",
+      "Mobile Number and Email Address",
+      "Personal Bank Account Letter/Certificate",
+      "Platform Profile Link"
+    ]
+  },
+  {
+    "id": "freelancer-renewal-charges",
+    "title": "Freelancer Renewal charges",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Fee: Rs. 15,000",
+    "notes": [
+      "(Excluding PSEB Fees)"
+    ],
+    "timeline": "10 working days",
+    "requirements": [
+      "Summary of Export Revenue with proper IT/ITeS code defined by SBP (for export-oriented freelancers).",
+      "Income Tax Return for preceding year. And PRC"
+    ]
+  },
+  {
+    "id": "pseb-registration-s-new-company-registration",
+    "title": "PSEB Registration’s (New Company Registration)",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Fee: Rs. 25,000",
+    "notes": [
+      "(Excluding PSEB Fees)"
+    ],
+    "timeline": "15 Working Days",
+    "requirements": [
+      "Business NTN",
+      "Mobile Number and Email Address",
+      "CNIC of all Directors / Shareholders / Partners / Proprietor (Both sides)",
+      "Passports of Directors / Shareholders / Partners (for foreign nationals only)",
+      "Memorandum and Articles of Association (for SECP registered companies only)",
+      "Form 29 (for SECP registered companies only)",
+      "Incorporation certificate (for SECP registered companies only)",
+      "Partnership deed (for Partnership based firms)",
+      "Firm registration certificate (for registered firms)",
+      "Business Bank Statement of the preceding six months OR Business Bank Account Letter/Certificate (In case of new account)"
+    ]
+  },
+  {
+    "id": "company-renewal-fee-structure",
+    "title": "Company Renewal Fee Structure",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Fee: Rs. 25,000",
+    "notes": [
+      "(Excluding PSEB Fees)"
+    ],
+    "timeline": "15 Working Days",
+    "requirements": [
+      "Summary of Export Revenue with proper IT/ITeS code defined by SBP (for export-oriented organization).",
+      "To validate PRC and domestic earnings of IT industry, attach copy of financial statement from audited accounts report or income tax returns for preceding year."
+    ]
+  },
+  {
+    "id": "pseb-registration-new-call-center-registration",
+    "title": "PSEB Registration (New Call Center Registration)",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Fee: Rs. 35,000",
+    "notes": [
+      "(Excluding PSEB Fees)"
+    ],
+    "timeline": "30 Working days (With IP Whitelisting)",
+    "requirements": [
+      "Business NTN.",
+      "CNIC of all Directors / Shareholders / Partners / Proprietor (Both Sides)",
+      "Passports of Directors / Shareholders / Partners (for foreign nationals only).",
+      "Memorandum and Articles of Association (for SECP registered companies only).",
+      "Form 29 (for SECP registered companies only).",
+      "Incorporation certificate (for SECP registered companies only).",
+      "Partnership deed (for Partnership based firms).",
+      "Firm registration certificate (for registered firms)",
+      "Business Bank Statement of the preceding six months. Moreover,",
+      "Business Bank Account Letter/Certificate (In case of new account)."
+    ]
+  },
+  {
+    "id": "call-center-renewal-charges",
+    "title": "Call Center Renewal Charges",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Fees: Rs. 30,000",
+    "notes": [
+      "(Excluding PSEB Fees)"
+    ],
+    "timeline": "20 Working Days",
+    "requirements": [
+      "Summary of Export Revenue with proper IT/ITeS code defined by SBP.",
+      "To track PRC and domestic earnings of IT industry, attach copy of financial statement from audited accounts report or income tax returns for preceding year."
+    ]
+  },
+  {
+    "id": "chamber-of-commerce-industries-cci",
+    "title": "Chamber of Commerce & Industries (CCI)",
+    "subtitle": "for Karachi, Islamabad & Lahore",
+    "category": "other-registrations",
+    "price": "Fee: Rs. 20,000 / Fee: Rs. 30,000",
+    "notes": [
+      "(Excluding CCI Fee)"
+    ],
+    "timeline": "30 working days 10 working days (Not Applicable for Karachi)",
+    "requirements": [
+      "Business NTN.",
+      "CNIC of all Directors / Shareholders / Partners / Proprietor (Both Sides)",
+      "Passports of Directors / Shareholders / Partners (for foreign nationals only).",
+      "Memorandum & Article of Association along with Certificate of incorporation of Private limited, limited companies and Partnership deed should be attested by notary Public.",
+      "Original bank maintenance certificate.",
+      "Copy of Sales tax return (If Applicable).",
+      "Passport size pictures."
+    ]
+  },
+  {
+    "id": "p-sha-registration",
+    "title": "P@sha Registration",
+    "subtitle": "",
+    "category": "other-registrations",
+    "price": "Rs. 35,000",
+    "notes": [
+      "(Excluding Fees)"
+    ],
+    "timeline": "Minimum 20 Working Days",
+    "requirements": [
+      "CNIC of all Directors / Shareholders / Partners / Proprietor (Both Sides)",
+      "Company Head, Chief Executive Officer (Name, Contact Number, Email Address).",
+      "HR, Finance & Marketing Head (Name, Contact Number & Email Address).",
+      "Company Name.",
+      "Is Turnover less than 500M or Less. (Domestic Revenue & Export Revenue).",
+      "Total No. of Employees.",
+      "Business Nature.",
+      "Describe your core business (2-3 liner brief)",
+      "Major Clients, Key Services, Products name and Website.",
+      "Target Markets (Pakistan and others)",
+      "Offices in Pakistan (Provide City name)",
+      "Global Offices (if applicable)",
+      "All Incorporation Document (MOA, AOA, Form II, Incorporation Certificate)."
+    ]
+  },
+  {
+    "id": "private-limited-company-compliances",
+    "title": "Private Limited Company Compliances",
+    "subtitle": "(Other than Licensed entity)",
+    "category": "company-registration",
+    "price": "Minimum Fee (Annually): Rs. 25,000",
+    "notes": [
+      "Excluding SECP Fees"
+    ],
+    "timeline": "15 - 25 working days",
+    "requirements": [
+      "SECP Credentials"
+    ]
+  },
+  {
+    "id": "private-limited-company-director-changes",
+    "title": "Private Limited Company Director Changes",
+    "subtitle": "(Other than Licensed entity)",
+    "category": "company-registration",
+    "price": "Minimum Fee: Rs. 35,000",
+    "notes": [
+      "Excluding SECP Fees"
+    ],
+    "timeline": "20 - 30 working days",
+    "requirements": [
+      "SECP Credentials"
+    ]
+  },
+  {
+    "id": "single-member-company-compliances",
+    "title": "Single Member Company Compliances",
+    "subtitle": "(Other than Licensed entity)",
+    "category": "company-registration",
+    "price": "Minimum Fee (Annually): Rs. 25,000",
+    "notes": [
+      "Excluding SECP Fees"
+    ],
+    "timeline": "7 - 10 working days",
+    "requirements": [
+      "SECP Credentials"
+    ]
+  }
+]
