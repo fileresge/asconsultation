@@ -1,17 +1,17 @@
 export const partners = [
+    {
+    name: "Anees Saleem",
+    role: "Partner · Audit & Accounting",
+    image: "/partners/Anees.png",
+    description: "Anees Saleem works across internal audit, QCR audit, bookkeeping, and income and sales tax filing. His expertise also includes feasibility report preparation, bringing financial records and business analysis together. His focus is on organised information, clear reporting, and practical support for business decision-making.",
+    focus: ["Audit", "Bookkeeping", "Feasibility reports"],
+  },
   {
     name: "Muhammad Junaid",
     role: "Partner · Taxation & Corporate Compliance",
     image: "/partners/junaid.png",
     description: "Muhammad Junaid supports individuals, startups, and growing businesses across taxation, accounting, and corporate compliance. His work spans income and sales tax, financial reporting, audit support, and FBR and SECP matters. He brings a practical, detail-focused approach to complex requirements, helping clients move forward with clarity and confidence.",
     focus: ["Taxation", "Financial reporting", "Corporate compliance"],
-  },
-  {
-    name: "Anees Saleem",
-    role: "Partner · Audit & Accounting",
-    image: "/partners/Anees.png",
-    description: "Anees Saleem works across internal audit, QCR audit, bookkeeping, and income and sales tax filing. His expertise also includes feasibility report preparation, bringing financial records and business analysis together. His focus is on organised information, clear reporting, and practical support for business decision-making.",
-    focus: ["Audit", "Bookkeeping", "Feasibility reports"],
   },
 ];
 
